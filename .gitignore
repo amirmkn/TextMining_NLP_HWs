@@ -6,3 +6,6 @@ val_tokens.pkl
 __pycache__/lm.cpython-38.pyc
 __pycache__/spell.cpython-38.pyc
 news.csv
+raw_test_sentences_error.pkl
+raw_val_sentences_error.pkl
+*.pkl

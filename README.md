@@ -1,2 +1,2 @@
 # TextMining_NLP_HWs
-Here we implement some home works related to NLP and Text Mining subjects
+Here we implement some projects related to NLP and Text Mining subjects

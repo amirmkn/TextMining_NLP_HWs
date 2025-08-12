@@ -9,3 +9,5 @@ news.csv
 raw_test_sentences_error.pkl
 raw_val_sentences_error.pkl
 *.pkl
+*.txt
+*.csv
